@@ -1,7 +1,8 @@
 # MusicPlayerApp
 
-*In this repo I had done a project on Music player app ,I completely used the only HTML &amp; CSS.
-*To make my webapp looks good with animation and UI ,I used the Bootstrap as well
+In this repo I had done a project on Music player app ,I completely used the only HTML &amp; CSS.
+<br>
+To make my webapp looks good with animation and UI ,I used the Bootstrap as well.
 
 # Live web link
 
